@@ -10,7 +10,7 @@ This repository outlines the architectural framework for a comprehensive, multi-
 
 This transformation is structured as a four-phase campaign, with each phase building upon the last.
 
-### [Phase 1: Foundational CRM for Individual Clients (In Progress)](./Phase-1-Individual-Client-CRM)
+### [Phase 1: Foundational CRM for Individual Clients (In Progress)](.[/Phase-1-Individual-Client-CRM](https://github.com/AMyburgh-za/Phase-1-Individual-Client-CRM))
 
 *   **Status:** In Progress
 *   **Objective:** To establish a "single source of truth" by implementing a foundational CRM system for the individual client value stream. This phase focuses on creating immediate efficiency gains and establishing core data integrity.
