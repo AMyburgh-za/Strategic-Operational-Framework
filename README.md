@@ -14,8 +14,8 @@ This transformation is structured as a four-phase campaign, with each phase buil
 
 *   **Status:** In Progress
 *   **Objective:** To establish a "single source of truth" by implementing a foundational CRM system for the individual client value stream. This phase focuses on creating immediate efficiency gains and establishing core data integrity.
-*   **Deliverable:** A fully implemented CRM using ClickUp, serving as the capstone project for the Google Project Management certification.
-*   **[View Detailed Case Study & Execution Artifacts](./Phase-1-Individual-Client-CRM)** *(This will be a link to your first Spoke repository)*
+*   **Deliverable:** A fully implemented CRM using ClickUp and integrating it as far as possible with Google Workspace as well as One Drive where we currently store all our client files, serving as the capstone project for the Google Project Management certification.
+*   **View Detailed Case Study & Execution Artifacts./Phase-1-Individual-Client-CRM** *(This will be a link to your first Spoke repository)*
 
 ---
 
