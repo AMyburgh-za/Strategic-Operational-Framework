@@ -2,7 +2,6 @@
 
 This repository outlines the architectural framework for a comprehensive, multi-phase operational transformation. The objective is to move from a decentralized, manual workflow to a unified, scalable, and data-driven operational system.
 
-**The core philosophy is to systematically engineer "Strength in Vision, Power in Purpose" into the firm's daily operations.**
 
 ---
 
